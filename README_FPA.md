@@ -32,9 +32,9 @@ The dashboard shows how a finance team would review monthly and full-year perfor
 
 ### Screenshots
 
-![Page 1: Executive Variance Summary](screenshots/page1-executive-variance-summary.png)
-![Page 2: Revenue Variance](screenshots/page2-revenue-variance.png)
-![Page 3: Cost Variance](screenshots/page3-cost-variance.png)
+![Page 1: Executive Variance Summary](page1-executive-variance-summary.png)
+![Page 2: Revenue Variance](page2-revenue-variance.png)
+![Page 3: Cost Variance](page3-cost-variance.png)
 
 ---
 
@@ -102,14 +102,14 @@ FP&A · Budget vs actual analysis · Variance analysis (price, volume, cost) · 
 
 | File | Description |
 |---|---|
-| `NovaTech_FP_A.pbix` | The Power BI report |
+| `NovaTech FP&A.pbix` | The Power BI report |
 | `NovaTech_FPA_Dataset_2025.xlsx` | Simulated source data (actual and budget tables) |
-| `screenshots/` | Images of each dashboard page |
+| `page` | Images of each dashboard page |
 
 ## How to Open
 
 1. Install **Power BI Desktop** (free, Windows) from Microsoft.
-2. Download `NovaTech_FP_A.pbix` from this repository.
+2. Download `NovaTech FP&A.pbix` from this repository.
 3. Open it in Power BI Desktop. If asked, point the data source to the Excel file you downloaded (Home → Transform data → Data source settings).
 
 ---
@@ -117,4 +117,4 @@ FP&A · Budget vs actual analysis · Variance analysis (price, volume, cost) · 
 ## Author
 
 **Neethu S**: B.Com graduate and CMA (USA)
-[LinkedIn](https://linkedin.com/in/neethu-s-20a787370)
+[LinkedIn](https://www.linkedin.com/in/neethu-s-cma?utm_source=share_via&utm_content=profile&utm_medium=member_android)
